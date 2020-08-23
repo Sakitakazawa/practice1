@@ -36,5 +36,5 @@ p_all_day1 = st.kruskal(df_pro["distance_pro_day1"],
 print(p_pro)
 print(p_ama)
 print(p_hob)
-print(p_all_day7)
+#print(p_all_day7)
 print(p_all_day1)
